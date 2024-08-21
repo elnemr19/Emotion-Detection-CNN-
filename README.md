@@ -11,9 +11,9 @@ The goal of this project is to develop a deep learning model that can accurately
 
 [Dataset](https://github.com/elnemr19/Emotion-Detection-CNN-/blob/main/README.md#3-dataset)
 
-[Model Overview]()
+[Model Overview](https://github.com/elnemr19/Emotion-Detection-CNN-/blob/main/README.md#4-model-overview)
 
-[Result]()
+[Result](https://github.com/elnemr19/Emotion-Detection-CNN-/blob/main/README.md#5-result)
 
 
 ## 3. Dataset 
