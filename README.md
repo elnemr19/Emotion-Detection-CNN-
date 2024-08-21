@@ -9,7 +9,7 @@ The goal of this project is to develop a deep learning model that can accurately
 
 ## 2. Table of Contents
 
-[Dataset]()
+[Dataset](https://github.com/elnemr19/Emotion-Detection-CNN-/blob/main/README.md#3-dataset)
 
 [Model Overview]()
 
@@ -30,6 +30,27 @@ the data is low impalanced ,expect in class disgust that contain around 10 of th
 
 
 -Loading the data: "The dataset is loaded directly from Kaggle using the Kaggle API."
+
+
+## 4. Model Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 5. Result
+
 
 
 
